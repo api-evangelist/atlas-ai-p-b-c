@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Atlas AI P.B.C. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.atlasai.co/
+Atlas AI P.B.C. is a public benefit corporation focused on leveraging artificial intelligence to provide advanced analytics and decision‑making tools for enterprises and researchers. Founded to democratize AI, the company offers a suite of APIs that deliver data enrichment, predictive modeling, and natural language processing capabilities. Its platform emphasizes transparency, ethical AI practices, and open data standards, aiming to empower users to integrate sophisticated AI services into their applications without extensive in‑house expertise. The organization operates globally, supporting a diverse client base across finance, healthcare, and technology sectors.
+
+**Areas:** Company · AI · Analytics · DataEnrichment · PublicBenefit
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.atlasai.co/)
+- [Documentation](https://docs.atlasai.co/)
+- [Blog](https://www.atlasai.co/blog)
+- [Terms of service](https://www.atlasai.co/legal/terms-of-use)
+- [Privacy policy](https://www.atlasai.co/legal/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/atlas-ai-p-b-c/](https://apis.io/providers/atlas-ai-p-b-c/).
